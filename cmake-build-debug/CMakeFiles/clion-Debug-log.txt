@@ -1,4 +1,4 @@
-"C:\Program Files\JetBrains\CLion 2023.2.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" -S C:\Users\lover\Desktop\codigoBaseV6.0 -B C:\Users\lover\Desktop\codigoBaseV6.0\cmake-build-debug
--- Configuring done (0.1s)
+/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "Unix Makefiles" -S "/Users/agustinmiranda/Documents/ucc 2024/PROGRAMACION III/repaso/u6-hashmap-agustin-salvay-2305505" -B "/Users/agustinmiranda/Documents/ucc 2024/PROGRAMACION III/repaso/u6-hashmap-agustin-salvay-2305505/cmake-build-debug"
+-- Configuring done (0.0s)
 -- Generating done (0.1s)
--- Build files have been written to: C:/Users/lover/Desktop/codigoBaseV6.0/cmake-build-debug
+-- Build files have been written to: /Users/agustinmiranda/Documents/ucc 2024/PROGRAMACION III/repaso/u6-hashmap-agustin-salvay-2305505/cmake-build-debug

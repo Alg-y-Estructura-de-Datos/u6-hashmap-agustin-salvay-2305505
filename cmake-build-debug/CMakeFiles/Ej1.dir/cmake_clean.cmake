@@ -1,10 +1,8 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Ej1.dir/Ej1.cpp.obj"
-  "CMakeFiles/Ej1.dir/Ej1.cpp.obj.d"
-  "Ej1.exe"
-  "Ej1.exe.manifest"
+  "CMakeFiles/Ej1.dir/Ej1.cpp.o"
+  "CMakeFiles/Ej1.dir/Ej1.cpp.o.d"
+  "Ej1"
   "Ej1.pdb"
-  "libEj1.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

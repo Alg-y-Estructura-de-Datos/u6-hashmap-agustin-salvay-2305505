@@ -1,9 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/medicionEficiencia.dir/medicionEficiencia.cpp.obj"
-  "CMakeFiles/medicionEficiencia.dir/medicionEficiencia.cpp.obj.d"
-  "libmedicionEficiencia.dll.a"
-  "medicionEficiencia.exe"
-  "medicionEficiencia.exe.manifest"
+  "CMakeFiles/medicionEficiencia.dir/medicionEficiencia.cpp.o"
+  "CMakeFiles/medicionEficiencia.dir/medicionEficiencia.cpp.o.d"
+  "medicionEficiencia"
   "medicionEficiencia.pdb"
 )
 

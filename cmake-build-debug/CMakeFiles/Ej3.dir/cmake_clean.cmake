@@ -1,10 +1,8 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Ej3.dir/medicionEficiencia.cpp.obj"
-  "CMakeFiles/Ej3.dir/medicionEficiencia.cpp.obj.d"
-  "Ej3.exe"
-  "Ej3.exe.manifest"
+  "CMakeFiles/Ej3.dir/Ej3.cpp.o"
+  "CMakeFiles/Ej3.dir/Ej3.cpp.o.d"
+  "Ej3"
   "Ej3.pdb"
-  "libEj3.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

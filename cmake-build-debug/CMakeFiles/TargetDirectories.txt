@@ -1,5 +1,8 @@
-C:/Users/lover/Desktop/codigoBaseV6.0/cmake-build-debug/CMakeFiles/Ej1.dir
-C:/Users/lover/Desktop/codigoBaseV6.0/cmake-build-debug/CMakeFiles/Ej2.dir
-C:/Users/lover/Desktop/codigoBaseV6.0/cmake-build-debug/CMakeFiles/medicionEficiencia.dir
-C:/Users/lover/Desktop/codigoBaseV6.0/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/lover/Desktop/codigoBaseV6.0/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/agustinmiranda/Documents/ucc 2024/PROGRAMACION III/repaso/u6-hashmap-agustin-salvay-2305505/cmake-build-debug/CMakeFiles/Ej1.dir
+/Users/agustinmiranda/Documents/ucc 2024/PROGRAMACION III/repaso/u6-hashmap-agustin-salvay-2305505/cmake-build-debug/CMakeFiles/Ej2.dir
+/Users/agustinmiranda/Documents/ucc 2024/PROGRAMACION III/repaso/u6-hashmap-agustin-salvay-2305505/cmake-build-debug/CMakeFiles/Ej3.dir
+/Users/agustinmiranda/Documents/ucc 2024/PROGRAMACION III/repaso/u6-hashmap-agustin-salvay-2305505/cmake-build-debug/CMakeFiles/Ej4.dir
+/Users/agustinmiranda/Documents/ucc 2024/PROGRAMACION III/repaso/u6-hashmap-agustin-salvay-2305505/cmake-build-debug/CMakeFiles/Ej5.dir
+/Users/agustinmiranda/Documents/ucc 2024/PROGRAMACION III/repaso/u6-hashmap-agustin-salvay-2305505/cmake-build-debug/CMakeFiles/medicionEficiencia.dir
+/Users/agustinmiranda/Documents/ucc 2024/PROGRAMACION III/repaso/u6-hashmap-agustin-salvay-2305505/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/agustinmiranda/Documents/ucc 2024/PROGRAMACION III/repaso/u6-hashmap-agustin-salvay-2305505/cmake-build-debug/CMakeFiles/rebuild_cache.dir
